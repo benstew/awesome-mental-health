@@ -5,6 +5,8 @@ Without question, the last few weeks have created an extraordinary amount of cha
 
 Based on some ongoing conversations with family/friends, adventures into the bowels of Reddit, and the constant battering of news (and misinformation), a common pattern emerged: The stress and unknown circumstances of current events is taking an extreme toll on all our mental wellbeing.
 
+*The best way out is always through.* - Robert Frost
+
 ## Table of Contents
 - [What is it?](#what-is-it)
 - [Goal](#goal)
