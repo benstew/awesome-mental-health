@@ -75,13 +75,52 @@ How well you feel emotionally and psychologically
 How you interact with nature
 
 - **Creating Healthy Environments**
-  -  
+  - [Eight easy ways to create and maintain a healthy workplace](https://www.ciphr.com/advice/8-easy-ways-to-create-and-maintain-a-healthy-workplace)
+  - [Working from Home? Here Are 5 Tips to Create a Healthy and Productive Environment](https://ww.healthline.com/health/work-from-home-productive-healthy)
+  - [11 Ways To Make Your Home More Healthy, Because Your Environment Matters Too](https://www.bustle.com/articles/171847-11-ways-to-make-your-home-more-healthy-because-your-environment-matters-too)
+  - [What is a healing environment](https://www.takingcharge.csh.umn.edu/what-is-a-healing-environment)
+  - [10 Reasons Why It Is Important Create a Happy Workplace](https://www.inc.com/rhett-power/10-reasons-why-it-is-important-create-a-happy-workplace.html)
+  - [A Healthy Work Environment: It Begins With You](https://ojin.nursingworld.org/MainMenuCategories/ANAMarketplace/ANAPeriodicals/OJIN/TableofContents/Vol152010/No1Jan2010/A-Healthy-Work-Environment-and-You.html)
+  - [WHO: Healthy Workplace Framework](https://www.who.int/occupational_health/healthy_workplace_framework.pdf)
+  - [8 Steps to Create a Positive and Healthy Work Environment](https://www.glassdoor.com/employers/blog/create-healthy-work-environment/)
 - **Conserving**
-  -
+  - **Natural Resources**
+    - [120 Ways to Save Energy](https://www.ovoenergy.com/guides/energy-guides/120-ways-to-save-energy.html)
+    - [100+ Ways to Conserve Water](https://wateruseitwisely.com/100-ways-to-conserve/)
+    - [How to Conserve Energy](https://paylesspower.com/blog/conserve-energy/)
+    - [Ways to Manage Our Non-Renewable and Renewable Resources](https://sciencing.com/ways-manage-nonrenewable-renewable-resources-23595.html)
+    - [wikiHow - Save Natural Resources](https://www.wikihow.com/Save-Natural-Resources)
+    - [How to Save the Environment](https://www.mindcontroversy.com/how-to-save-the-environment/)
+    - [What can I do to Protect the Coral Reefs?](https://oceanservice.noaa.gov/facts/thingsyoucando.html)
+    - [Conserve the Water in your Lawn](https://www.scotts.com/en-us/library/watering/5-efficient-ways-conserve-water-your-lawn)
+    - [31 Ways to Save Energy in your Home](https://blog.constellation.com/2016/01/01/31-ways-to-save-energy-in-your-home/)
+  - **Personal Resources**
+    - [How to Save Money](https://www.nerdwallet.com/blog/how-to-save-money/)
+    - [How to Save Money Fast](https://www.daveramsey.com/blog/save-1000-in-one-month)
+    - [8 Simple Ways to Save Money](https://bettermoneyhabits.bankofamerica.com/en/saving-budgeting/ways-to-save-money)
+    - [Tips to Save Money](https://www.lifehack.org/articles/money/how-can-save-money-25-tips-how-save-money-fast.html)
 - **Appreciating Nature**
-  -
+  - [How to explore national parks with virtual tours](https://www.mnn.com/earth-matters/wilderness-resources/blogs/national-parks-virtual-tours)
+  - [National Museum of Natural History - Virtual Tours](https://naturalhistory.si.edu/visit/virtual-tour)
+  - [Four Ways to Mindfully Appreciate Nature](https://www.mindful.org/4-ways-to-mindfully-appreciate-nature/)
+  - [People Who Appreciate Nature Are Happier, Healthier And More Innovative](https://www.elitedaily.com/life/people-who-appreciate-nature-are-happier-healthier-and-less-stressed/1024486)
+  - [Ways to appreciate nature that you never thought about](https://omtimes.com/2012/03/11-ways-to-appreciate-nature-that-you-never-thought-about/)
+  - [7 Ways to appreciate nature](https://confessionsofanover-workedmom.com/7-ways-appreciate-nature/)
+  - [wikiHow - How to appreciate the world and nature around you](https://www.wikihow.com/Appreciate-the-World-and-Nature-Around-You)
+  - [TheseWords Will Make You Appreciate the Beauty of Life](https://www.youtube.com/watch?v=CyRl3nG3dA8)
+  - [Ten reasons why we need more contact with nature ](https://www.theguardian.com/commentisfree/2014/feb/13/10-reasons-why-we-need-more-contact-with-nature)
+  - [10 Reasons Why You Feel So Good in Nature](https://www.ecowatch.com/10-reasons-why-you-feel-so-good-in-nature-1881977943.html)
+  - [Gratitude mantras to help you appreciate nature](https://yogisurprise.com/gratitude-mantras-to-help-you-appreciate-nature/)
+  -[Virtual Nature Walk in the Redwood National](https://www.youtube.com/watch?v=lh5-eXzMZrA)
 - **Recycling**
-  -
+  - [Recycling Basics](https://www.epa.gov/recycle/recycling-basics)
+  - [Reduce, Reuse, Recycle](https://www.epa.gov/recycle)
+  - [Recycling 101](https://www.wm.com/us/en/inside-wm/recycle-right/recycling-101)
+  - [Benefits of Recycling](https://www.greenandgrowing.org/benefits-recycling-important-earth/)
+  - [Why Recycling is important](https://helpsavenature.com/why-is-recycling-important)
+  - [What can you do?](https://www.conserve-energy-future.com/importance_of_recycling.php)
+  - [Recycling Is Cool, but Not Enough!](https://www.letsdoitworld.org/2016/07/recycling-cool-not-enough/)
+  - [11 Facts About Recycling](https://www.dosomething.org/us/facts/11-facts-about-recycling)
 
 ## Mental
 How good you feel about yourself
