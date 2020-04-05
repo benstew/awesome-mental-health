@@ -51,18 +51,37 @@ How well you feel emotionally and psychologically
   - [15 Tips To Feel More Secure When Living Alone](https://www.bustle.com/articles/183766-15-tips-to-feel-more-secure-when-living-alone)
   - [How to deal with an insecure person](https://www.wikihow.com/Deal-With-an-Insecure-Person)
 - **Combating Anxiety**
+  - [Understanding Anxiety: The Complete Beginner’s Guide](https://nickwignall.com/understanding-anxiety/)
+  - [How to Stop Feeling Anxious Right Now](https://www.webmd.com/mental-health/features/ways-to-reduce-anxiety)
+  - [How To Explain Anxiety To People Who Don't Understand](https://www.bustle.com/articles/159599-how-to-explain-anxiety-to-people-who-dont-understand)
+  - [16 Simple Ways to Relieve Stress and Anxiety](https://www.healthline.com/nutrition/16-ways-relieve-stress-anxiety)
+  - [Understanding Generalized Anxiety Disorder - The Basics](https://www.webmd.com/anxiety-panic/understanding-anxiety-basics)
   - [How to deal with immense uncertainty](https://zenhabits.net/immense-uncertainty/)
   - [Cope with Anxiety about Coronavirus](https://www.verywellmind.com/managing-coronavirus-anxiety-4798909)
   - [Anxiety Social Network](http://www.anxietysocialnet.com/)
+  - [38 Awesome Tips & Tricks How to Stop Feeling Anxious Right Now](https://allremedies.com/how-to-stop-feeling-anxious/)
+  - [Surprising ways to beat anxiety and become mentally strong – according to science](https://theconversation.com/surprising-ways-to-beat-anxiety-and-become-mentally-strong-according-to-science-77978)
+  - [When in Doubt, Shout It Out! 8 Drug-Free Ways to Battle Anxiety](https://www.healthline.com/health/effective-ways-to-fight-anxiety-without-drugs#1)
 - **Expressing Emotions**
+  - [The Universal Expression of Emotion ](https://www.verywellmind.com/the-expression-of-emotion-2795180)
+  - [11 Steps to Express Your Emotions](https://exploringyourmind.com/11-steps-express-emotions/)
+  - [Why Is It Important to Express Your Feelings?](https://www.youtube.com/watch?v=7ibmDIjPxoM)
+  - [Learn How to Identify and Express your Feelings](https://www.cognitivehealing.com/depression/learn-how-to-identify-and-express-your-feelings/)
+  - [10 Reasons You Can’t Say How You Feel](https://psychcentral.com/lib/10-reasons-you-cant-say-how-you-feel/)
+  - [Why it's so Important to Express Your Emotions](https://welldoing.org/article/why-so-important-express-emotions)
+  - [A simple trick to express negative emotions in a mature way](https://agileleanlife.com/how-to-express-negative-emotions/)
 
 ## Environmental
 How you interact with nature
 
--**Creating Healthy Environments**
--**Conserving**
--**Appreciating Nature**
--**Recycling**
+- **Creating Healthy Environments**
+  -  
+- **Conserving**
+  -
+- **Appreciating Nature**
+  -
+- **Recycling**
+  -
 
 ## Mental
 How good you feel about yourself
