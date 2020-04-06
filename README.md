@@ -17,9 +17,12 @@ Based on some ongoing conversations with family/friends, adventures into the bow
 - [Physical](#goal)
 - [Social](#goal)
 - [Spiritual](#goal)
+- [Newsletter Sign up](#newsletter)
 
 ## What is this?
 A collection of resources to help understand and improve mental wellbeing.
+
+Also (based on interest) an upcoming, curated weekly newsletter of the internet's best mental health resources. Sign up below.
 
 ## Goal
 More than a guide, a community sourced and curated resource for achieving proper mental wellbeing in any situation. Whether a pandemic, a personal challenge, or just an off day, this resource can be referenced to help get you through it! This list is by no means exhaustive and I encourage contributions from all members of the community.
@@ -201,11 +204,8 @@ How well your body functions
 - **Sleeping**
   - [The Science of Sleep: A Brief Guide on How to Sleep Better Every Night](https://jamesclear.com/sleep)
   - [TIME guide to Sleep](https://time.com/collection/guide-to-sleep/)
-  - []()
   - [How to sleep better if you are stressed](https://www.sleep.org/articles/sleep-better-when-stressed/)
   - [17 Proven Tips to Sleep Better at Night](https://www.healthline.com/nutrition/17-tips-to-sleep-better)
-  - [Mayo Clinic - Tips to Sleep Better](https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/sleep/art-20048379)
-- **Avoiding Bad Habits**
 
 
 ## Social
@@ -216,8 +216,6 @@ How well you get along with others
 - **Romantic Relationships**
 - **Communication**
 - **Expressing Yourself**
-- **Supportive Communities**
-  - [Find Local Support](https://findtreatment.samhsa.gov/)
 
 ## Spiritual
 How you live with a purpose
@@ -225,12 +223,9 @@ How you live with a purpose
 - **Being at Peace**
   - [60 Second Meditation](http://www.pixelthoughts.co/)
 - **Having an impact**
-  - Job Boards
-    - [Coronavirus Job Board](https://coronahub.co/jobs/)
 - **Learning Something New**
   - Programming
     - [Free Code Camp](https://www.freecodecamp.org/)
-
   - Other
     - [Yale's Science of Wellbeing Course](https://www.businessinsider.com/coursera-yale-science-of-wellbeing-free-course-review-overview)
     - [450 Free Ivy League School Classes](https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/)
@@ -243,3 +238,5 @@ How you live with a purpose
 - **Introspective Reflection**
 - **Practicing Compassion**
 - **Maintaining Morals**
+
+## Newsletter
