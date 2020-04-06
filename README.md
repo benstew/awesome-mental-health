@@ -249,7 +249,6 @@ How well you get along with others
     - [6 Surprising Ways to Communicate Better With Your Partner](https://www.psychologytoday.com/us/blog/the-couch/201501/6-surprising-ways-communicate-better-your-partner)
     - [8 Tips For Communicating Better in Relationships](https://www.bustle.com/articles/56261-8-tips-for-communicating-better-in-relationships)
     - [11 expert tips for a better marriage](https://www.focusonthefamily.ca/content/love-and-communication-11-expert-tips-for-a-better-marriage)
-
 - **Expressing Yourself**
   - [3 Tips to Get Out of Your Head and Start Expressing Yourself](https://tinybuddha.com/blog/3-tips-get-out-of-head-start-expressing-yourself/)
   - [The Power of Expressing Yourself](https://www.psychologytoday.com/us/blog/choke/201209/the-power-expressing-yourself)
@@ -262,22 +261,43 @@ How well you get along with others
 How you live with a purpose
 
 - **Being at Peace**
+  - [Wikipedia - Homeostasis](https://en.wikipedia.org/wiki/Homeostasis)
+  - [8 Things to Do If You Want to Be at Peace with Yourself](https://tinybuddha.com/blog/8-tips-to-feel-at-peace-with-yourself/)
+  - [How to find inner peace: 20 things you can start doing right now](https://hackspirit.com/how-to-discover-your-inner-peace-in-4-simple-steps/)
+  - [What is inner peace?](https://www.successconsciousness.com/what-is-inner-peace.html)
   - [60 Second Meditation](http://www.pixelthoughts.co/)
+  - [How can I find inner peace?](https://personaltao.com/healing/inner-peace/)
 - **Having an impact**
+  - [10 Ways You Can Make an Impressive Impact at Work](https://www.inc.com/lolly-daskal/10-ways-you-can-make-an-impressive-impact-at-work.html)
+  - [20 Inspirational Quotes On Impact](https://www.awakenthegreatnesswithin.com/20-inspirational-quotes-on-impact/)
+  - [Core Behaviors Of People Who Positively Impact The World](https://www.forbes.com/sites/kathycaprino/2014/06/02/9-core-behaviors-of-people-who-positively-impact-the-world/#539843736b41)
+  - [8 Sensational Ways to Create a Positive Impact Every Day](https://www.inc.com/angelina-zimmerman/8-sensational-ways-to-create-a-positive-impact-daily.html)
+  - [Have a positive impact on the environment](https://www.theenvironmentalblog.org/2017/04/how-you-can-have-a-positive-impact-on-the-environment/)
+  - [5 ways that you cna impact the world and create your own legacy](https://addicted2success.com/success-advice/5-ways-that-you-can-impact-the-world-create-your-own-legacy/)
 - **Learning Something New**
   - Programming
     - [Free Code Camp](https://www.freecodecamp.org/)
-  - Other
+    - [Codecademy](https://www.codecademy.com/learn/learn-how-to-code)
+  - Online Classes
     - [Yale's Science of Wellbeing Course](https://www.businessinsider.com/coursera-yale-science-of-wellbeing-free-course-review-overview)
     - [450 Free Ivy League School Classes](https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/)
+  - Communities
+    - [Hacker News](https://news.ycombinator.com/)
+    - [/r/IWantToLearn](https://www.reddit.com/r/IWantToLearn/)
+  - Other?
 - **Relaxing**
+  - [How You Can Learn to Finally, Really Relax](https://lifehacker.com/how-you-can-learn-to-finally-really-relax-1548045887)
+  - [How to Relax Your Body and Mind](https://www.verywellmind.com/how-to-relax-physically-and-emotionally-3144472)
+  - [Tips for Chilling Out](https://www.healthline.com/health/stress/how-to-relax)
+  - [40 Ways to Relax in 5 Minutes or Less](https://greatist.com/happiness/40-ways-relax-5-minutes-or-less#Sip-and-nosh-your-way-to-relaxation-)
+  - [Relaxation Techniques](https://www.nhsinform.scot/healthy-living/preventing-falls/fear-and-anxiety-about-falling/relaxation-techniques)
 - **Activities**
-  - Reading
-    - [19 Best Podcasts of 2020](https://www.lifewire.com/best-podcasts-4151825)
   - Podcasts
-  - Writing
+    - [19 Best Podcasts of 2020](https://www.lifewire.com/best-podcasts-4151825)
 - **Introspective Reflection**
-- **Practicing Compassion**
-- **Maintaining Morals**
+  - [7 Ways Self-Reflection And Introspection Will Give You A Happier Life](https://www.elitedaily.com/life/7-ways-self-reflection-introspection-will-give-happier-life/943309)
+  - [Wikipedia - Introspection](https://en.wikipedia.org/wiki/Introspection)
+  - [Here Are The 4 Simple Introspection Steps That Will Boost Self Awareness](https://medium.com/behavior-design/here-are-the-4-simple-introspection-steps-that-will-boost-self-awareness-4be256bbf70a)
+
 
 ## Newsletter
