@@ -250,8 +250,13 @@ How well you get along with others
     - [8 Tips For Communicating Better in Relationships](https://www.bustle.com/articles/56261-8-tips-for-communicating-better-in-relationships)
     - [11 expert tips for a better marriage](https://www.focusonthefamily.ca/content/love-and-communication-11-expert-tips-for-a-better-marriage)
 
-
 - **Expressing Yourself**
+  - [3 Tips to Get Out of Your Head and Start Expressing Yourself](https://tinybuddha.com/blog/3-tips-get-out-of-head-start-expressing-yourself/)
+  - [The Power of Expressing Yourself](https://www.psychologytoday.com/us/blog/choke/201209/the-power-expressing-yourself)
+  - [Get Better Relationships by Learning How to Express Yourself](https://exploringyourmind.com/better-relationships-learning-how-to-express-yourself/)
+  - [Quotes about expressing yourself](https://www.brainyquote.com/topics/express-yourself-quotes)
+  - [Express yourself and embrace your uniqueness](https://www.goodmorningquote.com/how-to-express-yourself/)
+  - [Can’t Express Yourself? Here are the 18 Best and Most Creative Ways to Express Your Feelings](https://want2discover.com/cant-express-18-best-creative-ways-express-feelings/)
 
 ## Spiritual
 How you live with a purpose
