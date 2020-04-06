@@ -35,7 +35,6 @@ How well you feel emotionally and psychologically
 
 - **Emotional Intelligence**
   - [What is Emotional Intelligence](https://www.youtube.com/watch?v=Y7m9eNoB3NU)
-  - [Go Ask Alice - FAQs around Emotional health](http://www.goaskalice.columbia.edu/)
   - [Virtual retreats to improve emotional intelligence](https://www.6seconds.org/grow/)
   - [Developing Emotional Intelligence and Strengthening People Skills](https://www.mindtools.com/pages/article/newCDV_59.htm)
   - [6 Ways to Improve Your Emotional Intelligence](https://www.youtube.com/watch?v=D6_J7FfgWVc)
@@ -44,6 +43,7 @@ How well you feel emotionally and psychologically
   - [Why Attitude Is More Important Than IQ](https://www.linkedin.com/pulse/why-attitude-more-important-than-iq-dr-travis-bradberry)
   - [Short Quiz to Test your EI](http://greatergood.berkeley.edu/ei_quiz/)
   - [Why Managing Pressure is the New Competitive Advantage at Work (White Paper)](http://www.ihhp.com/wp-content/uploads/2015/07/WHITE-PAPER-PressureChngsEvrythng.pdf)
+  - - [Go Ask Alice - FAQs around Emotional health](http://www.goaskalice.columbia.edu/)
 - **Feeling Secure**
   - [40 Ways to Feel More Alive](https://tinybuddha.com/blog/40-ways-to-feel-more-alive/)
   - [10 Ways to Feel More Secure in an Insecure World](https://www.psychologytoday.com/us/blog/emotional-fitness/201303/10-ways-feel-more-secure-in-insecure-world)
@@ -212,9 +212,45 @@ How well your body functions
 How well you get along with others
 
 - **Family**
+  - [Strategies to deal with difficult family members](https://www.psychologytoday.com/us/blog/in-flux/201802/7-strategies-deal-difficult-family-members)
+  - [How to Deal with Family Members that Stress You Out or Drive You Crazy](https://lifehacker.com/how-to-deal-with-family-members-that-stress-you-out-or-5861760)
+  - [6 Tips For Getting Along With Difficult Family Members](https://www.bustle.com/articles/139766-6-tips-for-getting-along-with-difficult-family-members)
 - **Friends**
+  - [How to Have Closer Friendships (and Why You Need Them)](https://www.nytimes.com/2019/11/20/smarter-living/how-to-have-closer-friendships.html)
+  - [21 Ways to Build Strong Friendships](https://tinybuddha.com/blog/21-ways-to-build-strong-friendships/)
+  - [Making Good Friends](https://www.helpguide.org/articles/relationships-communication/making-good-friends.htm)
+  - [Friendships: Enrich your life and improve your health](https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/friendships/art-20044860)
+  - [Importance of Friendship](https://www.psychologytoday.com/us/basics/friends)
+  - [Ways to Build Stronger Friendships](https://www.lifeoptimizer.org/2008/08/29/build-stronger-friendships/)
+  - [Building and Keeping a Circle of Friends](https://psychcentral.com/lib/building-and-keeping-a-circle-of-friends/)
 - **Romantic Relationships**
+  - [The Science Behind Happy and Healthy Relationships](https://time.com/5321262/science-behind-happy-healthy-relationships/)
+  - [Characteristics of Healthy Romantic Relationships](https://assets.campbell.edu/wp-content/uploads/2016/12/22122441/characteristics-of-healthy-romantic-relationships.pdf)
+  - [10 Keys to a Successful Romantic Relationship](https://www.lifehack.org/articles/featured/10-keys-to-a-successful-romantic-relationship.html)
+  - [Healthy Relationships Are Defined](https://www.boundless.org/relationships/healthy-relationships-are-defined/)
+  - [10 Habits of Couples in Strong and Healthy Relationships](https://www.bustle.com/articles/45366-10-habits-of-couples-in-strong-and-healthy-relationships)
+  - [Skills for Healthy Romantic Relationships](https://www.youtube.com/watch?v=gh5VhaicC6g)
+  - [Making Sense of Love and Romantic Relationships](https://www.psychologytoday.com/us/blog/the-attraction-doctor/201702/making-sense-love-and-romantic-relationships)
+  - [These Are The 7 Types of Romantic Relationships Everyone Should Know About](https://articles.aplus.com/a/types-of-relationships)
+
 - **Communication**
+  - **General & Personal**
+    - [Proven Ways to Improve Your Communication Skills](https://www.entrepreneur.com/article/300466)
+    - [Being assertive: Reduce stress, communicate better](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/assertive/art-20044644)
+    - [Effective Communication](https://www.helpguide.org/articles/relationships-communication/effective-communication.htm)
+    - [Developing Effective Communication Skills ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2793758/)
+    - [Improving Communication: Developing Effective Communication Skills](https://www.skillsyouneed.com/ips/improving-communication.html)
+  - **Workplace**
+    - [Techniques that Work for Improving Communication in the Workplace](https://www.envision-creative.com/blog/improving-workplace-communication/)
+    - [Ways to Improve Your Communication Skills at Work](https://www.thebalancecareers.com/improving-your-communication-skills-at-work-2275766)
+    - [How to Improve Communication With Your Boss](https://www.inc.com/lolly-daskal/how-to-improve-communication-with-your-boss.html)
+    - [How to Improve Your Communication Skills to Be Successful in Life](https://ivypanda.com/blog/how-to-improve-your-communication-skills-to-be-successful-in-life/)
+  - **Relationships**
+    - [6 Surprising Ways to Communicate Better With Your Partner](https://www.psychologytoday.com/us/blog/the-couch/201501/6-surprising-ways-communicate-better-your-partner)
+    - [8 Tips For Communicating Better in Relationships](https://www.bustle.com/articles/56261-8-tips-for-communicating-better-in-relationships)
+    - [11 expert tips for a better marriage](https://www.focusonthefamily.ca/content/love-and-communication-11-expert-tips-for-a-better-marriage)
+
+
 - **Expressing Yourself**
 
 ## Spiritual
