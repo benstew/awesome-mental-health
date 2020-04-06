@@ -165,21 +165,46 @@ How good you feel about yourself
   - [7 Tips for Productively Working from Home](https://www.lifehack.org/articles/productivity/7-tips-for-productively-working-from-home.html)
   - [33 Freakishly Effective Ways To Be More Productive At Work](https://snacknation.com/blog/increase-productivity-at-work/)
 - **Other**
-  - Dial 211
-    - Most municipalities (in the US) have have a support number to call to find additional information about mental health, counseling, and other resources
+  - [Dial 211](https://www.fcc.gov/consumers/guides/dial-211-essential-community-services)
 
 ## Physical
 How well your body functions
 
 - **Eating Well**
+  - [Healthy Eating — A Detailed Guide for Beginners](https://www.healthline.com/nutrition/healthy-eating-for-beginners)
+  - [Healthy Eating Ultimate Guide: Start Eating Healthy Without Being Miserable](https://www.nerdfitness.com/blog/healthy-eating/)
+  - [The Self-Quarantiner’s Guide to Eating Well(ish)](https://greatist.com/eat/healthy-eating-while-quarantined)
+  - [Nutrition 101 – Beginner’s Guide for Eating Healthy and Clean](https://www.shapefit.com/diet/nutrition-101.html)
+  - [Mega List of Healthy Recipes](https://www.allrecipes.com/recipes/84/healthy-recipes/)
+  - [The Minimalist's Guide to Eating Well on a Budge](https://breakingmuscle.com/healthy-eating/the-minimalists-guide-to-eating-well-on-a-budget)
+  - [A Beginner's Guide To Workout Nutrition: Before, During And After Training](https://www.bodybuilding.com/content/a-beginners-guide-to-workout-nutrition-before-during-and-after-training.html)
 - **Exercising**
   - Bodyweight Fitness
+    - [The Beginner Bodyweight Workout: Try this 20 Minute Routine At Home](https://www.nerdfitness.com/blog/beginner-body-weight-workout-burn-fat-build-muscle/)
     - [Fitness Blender](https://www.fitnessblender.com/workouts-programs)
     - [/r/bodyweightfitness](https://www.reddit.com/r/bodyweightfitness/)
+    - [50 Exercises for a Bodyweight Workout You Can Do Anywhere](https://greatist.com/fitness/50-bodyweight-exercises-you-can-do-anywhere#full-body)
+    - [The Ultimate 90-Day Bodyweight Training Plan](https://breakingmuscle.com/fitness/the-ultimate-90-day-bodyweight-training-plan)
   - Yoga
-  - Primal Movement
+    - [Yoga With Adriene](https://www.youtube.com/user/yogawithadriene/videos)
+    - [The 10 Most Important Yoga Poses for Beginners](https://www.doyou.com/the-10-most-important-yoga-poses-for-beginners-25270/)
+    - [21 Day Beginner Yoga Program](https://www.dailyom.com/cgi-bin/courses/courseoverview.cgi?cid=758)
+    - [Yoga - Beginner FAQs](https://www.yogajournal.com/practice/beginners/beginner-faqs-why-yoga)
+  - Functional Movement
+    - [Movement Parallels Life](https://www.youtube.com/user/kjmilad)
+    - [What Functional Training Is and Why It's Important](https://www.self.com/story/what-functional-training-is-why-its-important)
+    - [7 Essential Functional Movement Exercises](https://www.onnit.com/academy/7-essential-exercises-for-basic-human-movement/)
+    - [Functional Strength Exercises to Boost Your Power](https://life.spartan.com/post/functional-strength-training-plan)
 - **Being Active**
+  - [10 Simple Ways to be more active](https://www.lifehack.org/articles/communication/10-simple-ways-more-active.html)
+  - [Ways to be active](https://www.hhs.gov/fitness/be-active/ways-to-be-active/index.html)
 - **Sleeping**
+  - [The Science of Sleep: A Brief Guide on How to Sleep Better Every Night](https://jamesclear.com/sleep)
+  - [TIME guide to Sleep](https://time.com/collection/guide-to-sleep/)
+  - []()
+  - [How to sleep better if you are stressed](https://www.sleep.org/articles/sleep-better-when-stressed/)
+  - [17 Proven Tips to Sleep Better at Night](https://www.healthline.com/nutrition/17-tips-to-sleep-better)
+  - [Mayo Clinic - Tips to Sleep Better](https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/sleep/art-20048379)
 - **Avoiding Bad Habits**
 
 
@@ -194,8 +219,6 @@ How well you get along with others
 - **Supportive Communities**
   - [Find Local Support](https://findtreatment.samhsa.gov/)
 
-
-
 ## Spiritual
 How you live with a purpose
 
@@ -207,7 +230,7 @@ How you live with a purpose
 - **Learning Something New**
   - Programming
     - [Free Code Camp](https://www.freecodecamp.org/)
-    - [Free Trial on Udacity](https://www.udacity.com/)
+
   - Other
     - [Yale's Science of Wellbeing Course](https://www.businessinsider.com/coursera-yale-science-of-wellbeing-free-course-review-overview)
     - [450 Free Ivy League School Classes](https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/)
