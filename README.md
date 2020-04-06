@@ -126,14 +126,45 @@ How you interact with nature
 How good you feel about yourself
 
 - **Self Esteem**
-  - [Placeholder](https://example.com)
+  - [Wikipedia - Self Esteem](https://en.wikipedia.org/wiki/Self-esteem)
+  - [What is Self Esteem?](https://science.howstuffworks.com/life/what-is-self-esteem.htm)
+  - [Signs of Healthy and Low Self-Esteem](https://www.verywellmind.com/what-is-self-esteem-2795868)
+  - [How to Improve Your Self-Esteem](https://iqdoodle.com/improve-self-esteem/)
+  - [The Difference Between Self-Esteem and Self-Confidence](https://www.healthyplace.com/blogs/buildingselfesteem/2012/05/the-difference-between-self-esteem-and-self-confidence)
+  - [Improving Self-Esteem](https://www.skillsyouneed.com/ps/self-esteem.html)
+  - [Building Confidence and Self-Esteem](https://www.psychologytoday.com/us/blog/hide-and-seek/201205/building-confidence-and-self-esteem)
+  - [8 Steps to Improving Your Self-Esteem](https://www.psychologytoday.com/us/blog/nurturing-self-compassion/201703/8-steps-improving-your-self-esteem)
+  - [Self-esteem: Take steps to feel better about yourself](https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/self-esteem/art-20045374)
 - **Reducing Stress**
-  -
+  - [How to Simplify Your Life and Reduce Stress](https://www.verywellmind.com/how-to-simplify-your-life-3144705)
+  - [16 Simple Ways to Relieve Stress and Anxiety](https://www.healthline.com/nutrition/16-ways-relieve-stress-anxiety)
+  - [10 Relaxation Techniques That Zap Stress Fast](https://www.webmd.com/balance/guide/blissing-out-10-relaxation-techniques-reduce-stress-spot#1)
+  - [Quick Tips to Reduce Stress and Stop Anxiety](https://www.psychologytoday.com/us/blog/finding-cloud9/201308/5-quick-tips-reduce-stress-and-stop-anxiety)
+  - [Stress Management 101](https://www.helpguide.org/articles/stress/stress-management.htm)
+  - [15 Tips and Ways How to Reduce Stress Naturally](https://mindmonia.com/tips-how-to-reduce-stress/)
+  - [Dealing With Stress](https://www.skillsyouneed.com/ps/stress-tips.html)
+  - [How to Reduce Stress](https://www.psychologytoday.com/us/blog/hide-and-seek/201702/how-reduce-stress)
+  - [Relieve Stress Now](https://www.youtube.com/watch?v=fAjdI7J4Gvo)
+  - [Best exercises to reduce stress and anxiety](https://www.stylecraze.com/articles/exercises-for-stress-and-anxiety/)
+  - [Ways meditation can help to reduce and manage stress](https://chopra.com/articles/7-ways-meditation-can-help-you-reduce-and-manage-stress)
 - **Eliminating Self Doubt**
-  - [Acceptance and Commitment Mobile App](https://itunes.apple.com/us/app/act-coach/id804247934?mt=8)
+  - [Powerful Ways to Overcome Self-Doubt (So You Can Finally Move Forward in Life](https://www.positivityblog.com/overcome-self-doubt/)
+  - [Denzel Washington - Fall Forward Commencement Speech](https://www.youtube.com/watch?v=tbnzAVRZ9Xc)
+  - [Eliminate Self-Doubt Using This Simple Breathing Exercise](https://www.gr8ness.com/breathing-technique-eliminates-self-doubt/)
+  - [How To Boost Your Confidence And Overcome Self Doubt](https://medium.com/the-mission/how-to-overcome-self-doubt-and-boost-your-confidence-a10ac6cc912f)
+  - [Eliminate Self Doubt and Fear](https://www.positivityguides.net/how-to-eliminate-self-doubt/)
+  - [https://www.entrepreneur.com/article/295474](The Most Important Attitude That Entrepreneurs Must Develop )
+  - [Develop Incredible Self-Assurance](https://medium.com/the-mission/how-to-eliminate-self-doubt-and-develop-incredible-self-assurance-9b188b2eb870)
+  - [How Self Doubt Keeps You Stuck (And How to Overcome It)](https://www.lifehack.org/567587/the-reasons-of-self-doubt-and-steps-to-deal-with-it)
 - **Working Productively**
+  - []()
+  - [How to Make the Most of Your Workday](https://www.nytimes.com/guides/business/how-to-improve-your-productivity-at-work)
+  - [15 Ways to Increase Productivity at Work](https://www.inc.com/john-rampton/15-ways-to-increase-productivity-at-work.html)
+  - [How to Work From Home Without Losing Your Mind](https://www.wired.com/story/how-to-work-from-home-without-losing-your-mind/)
+  - [How to Work From Home: 20 Tips From People Who Do It Successfully](https://blog.hubspot.com/marketing/productivity-tips-working-from-home)
+  - [7 Tips for Productively Working from Home](https://www.lifehack.org/articles/productivity/7-tips-for-productively-working-from-home.html)
+  - [33 Freakishly Effective Ways To Be More Productive At Work](https://snacknation.com/blog/increase-productivity-at-work/)
 - **Other**
-  - (Signs of what to look for)[https://www.mentalhealth.gov/what-to-look-for]
   - Dial 211
     - Most municipalities (in the US) have have a support number to call to find additional information about mental health, counseling, and other resources
 
