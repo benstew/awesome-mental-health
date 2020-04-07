@@ -43,7 +43,7 @@ How well you feel emotionally and psychologically
   - [Why Attitude Is More Important Than IQ](https://www.linkedin.com/pulse/why-attitude-more-important-than-iq-dr-travis-bradberry)
   - [Short Quiz to Test your EI](http://greatergood.berkeley.edu/ei_quiz/)
   - [Why Managing Pressure is the New Competitive Advantage at Work (White Paper)](http://www.ihhp.com/wp-content/uploads/2015/07/WHITE-PAPER-PressureChngsEvrythng.pdf)
-  - - [Go Ask Alice - FAQs around Emotional health](http://www.goaskalice.columbia.edu/)
+  - [Go Ask Alice - FAQs around Emotional health](http://www.goaskalice.columbia.edu/)
 - **Feeling Secure**
   - [40 Ways to Feel More Alive](https://tinybuddha.com/blog/40-ways-to-feel-more-alive/)
   - [10 Ways to Feel More Secure in an Insecure World](https://www.psychologytoday.com/us/blog/emotional-fitness/201303/10-ways-feel-more-secure-in-insecure-world)
@@ -160,7 +160,6 @@ How good you feel about yourself
   - [Develop Incredible Self-Assurance](https://medium.com/the-mission/how-to-eliminate-self-doubt-and-develop-incredible-self-assurance-9b188b2eb870)
   - [How Self Doubt Keeps You Stuck (And How to Overcome It)](https://www.lifehack.org/567587/the-reasons-of-self-doubt-and-steps-to-deal-with-it)
 - **Working Productively**
-  - []()
   - [How to Make the Most of Your Workday](https://www.nytimes.com/guides/business/how-to-improve-your-productivity-at-work)
   - [15 Ways to Increase Productivity at Work](https://www.inc.com/john-rampton/15-ways-to-increase-productivity-at-work.html)
   - [How to Work From Home Without Losing Your Mind](https://www.wired.com/story/how-to-work-from-home-without-losing-your-mind/)
@@ -273,7 +272,7 @@ How you live with a purpose
   - [Core Behaviors Of People Who Positively Impact The World](https://www.forbes.com/sites/kathycaprino/2014/06/02/9-core-behaviors-of-people-who-positively-impact-the-world/#539843736b41)
   - [8 Sensational Ways to Create a Positive Impact Every Day](https://www.inc.com/angelina-zimmerman/8-sensational-ways-to-create-a-positive-impact-daily.html)
   - [Have a positive impact on the environment](https://www.theenvironmentalblog.org/2017/04/how-you-can-have-a-positive-impact-on-the-environment/)
-  - [5 ways that you cna impact the world and create your own legacy](https://addicted2success.com/success-advice/5-ways-that-you-can-impact-the-world-create-your-own-legacy/)
+  - [5 ways that you can impact the world and create your own legacy](https://addicted2success.com/success-advice/5-ways-that-you-can-impact-the-world-create-your-own-legacy/)
 - **Learning Something New**
   - Programming
     - [Free Code Camp](https://www.freecodecamp.org/)
