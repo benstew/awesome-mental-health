@@ -304,6 +304,6 @@ How you live with a purpose
 If you are interested in receiving a curated weekly newsletter with mental health resources, please sign up below.
 Based on demand/interest, we can continue to grow this list of resources, continue to provide weekly updates, and continue to help all of us to achieve stronger mental health in these challenging times 🧠
 
-https://forms.gle/ugoJ2vrNRR7N3Vcg8
+[Newsletter Sign Up Form](https://forms.gle/ugoJ2vrNRR7N3Vcg8)
 
 We hate spam even more than you do, you can unsubscribe at anytime.
